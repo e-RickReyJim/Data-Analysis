@@ -1,0 +1,16 @@
+#Install of Required Libraries
+pandas
+numpy
+matplotlib
+openpyxl
+nltk
+kiwisolver
+sentence-transformers
+polars
+fastexcel
+requests 
+tqdm
+futures
+dask #for large datasets
+chardet
+seaborn
